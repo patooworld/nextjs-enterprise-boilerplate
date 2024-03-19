@@ -1,0 +1,18 @@
+{
+    "id": "65999431af2bde80bede4202",
+    "roles": [
+        {
+            "name": "read-not-write",
+            "apply_when": {},
+            "document_filters": {
+                "write": false,
+                "read": true
+            },
+            "read": true,
+            "write": false,
+            "insert": true,
+            "delete": true,
+            "search": true
+        }
+    ]
+}
