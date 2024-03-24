@@ -23,7 +23,7 @@
     "coupling-graph": "npx madge --extensions js,jsx,ts,tsx,css,md,mdx ./ --exclude '.next|tailwind.config.js|reset.d.ts|prettier.config.js|postcss.config.js|playwright.config.ts|next.config.js|next-env.d.ts|instrumentation.ts|e2e/|README.md|.storybook/|.eslintrc.js' --image graph.svg"
   },
   "dependencies": {
-    "@next/bundle-analyzer": "^13.5.6",
+    "@next/bundle-analyzer": "^14.0.2",
     "@radix-ui/react-accordion": "^1.1.2",
     "@radix-ui/react-checkbox": "^1.0.4",
     "@radix-ui/react-dialog": "^1.0.5",
@@ -74,7 +74,7 @@
     "@storybook/blocks": "^7.4.6",
     "@storybook/nextjs": "^7.4.6",
     "@storybook/react": "^7.4.6",
-    "@storybook/test-runner": "^0.13.0",
+    "@storybook/test-runner": "^0.17.0",
     "@storybook/testing-library": "^0.2.2",
     "@testing-library/jest-dom": "^6.1.4",
     "@testing-library/react": "^14.0.0",
@@ -88,7 +88,7 @@
     "autoprefixer": "^10.4.16",
     "cross-env": "^7.0.3",
     "eslint": "8.51.0",
-    "eslint-config-next": "13.5.5",
+    "eslint-config-next": "14.1.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-config-react-app": "^7.0.1",
     "eslint-plugin-import": "^2.28.1",
@@ -109,7 +109,7 @@
     "tailwindcss": "^3.3.3",
     "ts-jest": "^29.1.1",
     "tsc": "^2.0.4",
-    "typescript": "5.1.6",
+    "typescript": "5.2.2",
     "webpack": "5.89.0"
   },
   "engines": {
